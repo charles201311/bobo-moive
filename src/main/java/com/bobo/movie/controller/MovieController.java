@@ -14,7 +14,7 @@ import com.bobo.movie.domain.Movie;
 import com.bobo.movie.service.MovieService;
 import com.bobo.movie.vo.MovieVO;
 import com.github.pagehelper.PageInfo;
-
+//1710E 改变了
 @Controller
 
 public class MovieController {
